@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @achuthaperumal.
-- 👀 I’m interested in computer vision based app development.
-- 🌱 I’m currently learning opencv, python.
-- 💞️ I’m looking to collaborate on computer vision related topics.
+- 👋 Hi, I’m @achuthaperumal, A professional LabVIEW Developer.
+- 👀 I’m interested in Test & Measurement Solutions such as Automated Test Equipment, HiL/SiL/MiL Testing, Computer Vision, and Embedded Systems.
+- 🌱 I’m now exploring NVIDIA's Jetson Platform, opencv-library, and Rust programming language.
+- 💞️ I’m looking to collaborate on LabVIEW, Test Automation, and Embedded Software related topics.
 - 📫 How to reach me achuthaperumal@gmail.com
 
 <!---
